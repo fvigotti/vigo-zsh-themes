@@ -1,4 +1,5 @@
-# Yay! High voltage and arrows!
+# credits :
+# pygmalion & smt themes
 
 prompt_setup_pygmalion(){
   ZSH_THEME_GIT_PROMPT_PREFIX="%{$reset_color%}%{$fg[green]%}"
